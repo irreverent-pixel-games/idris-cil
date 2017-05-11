@@ -6,3 +6,5 @@ TAGS
 *.il
 *~
 /test/cases/*.runtimeconfig.json
+.cabal-sandbox/
+cabal.sandbox.config
