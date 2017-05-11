@@ -1,0 +1,6 @@
+[submodule "lib/Idris-dev"]
+	path = lib/Idris-dev
+	url = https://github.com/idris-lang/Idris-dev.git
+[submodule "lib/language-cil"]
+	path = lib/language-cil
+	url = https://github.com/bamboo/language-cil.git
